@@ -1,0 +1,20 @@
+# Vivado-generated build output / scratch directories
+**/*.cache/
+**/*.sim/
+**/*.runs/
+**/*.ip_user_files/
+**/*.hw/
+**/.Xil/
+
+# Vivado logs and journals
+*.jou
+*.log
+webtalk*.jou
+webtalk*.log
+vivado*.jou
+vivado*.log
+vivado_pid*.str
+
+# Editor/OS cruft
+.DS_Store
+Thumbs.db
